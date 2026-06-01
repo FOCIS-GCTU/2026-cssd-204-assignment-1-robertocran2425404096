@@ -11,14 +11,11 @@
 # and I have not provided this code to any other student.
 
 
-
 def main():
     # Print my initials in normal and large form.
-
     print()
     print("...ROK")
     print()
-
     print("...RRRRRRRRRR...........OOOOOOOOOO.........KKK......KKK.....")
     print("...RRR.....RRR.........OOOOOOOOOOOO........KKK.....KKK......")
     print("...RRR......RRR........OOO......OOO........KKK....KKK.......")
@@ -29,7 +26,6 @@ def main():
     print("...RRR.....RRR.........OOO......OOO........KKK....KKK.......")
     print("...RRR......RRR...**...OOOOOOOOOOOO...**...KKK......KKK...**")
     print("...RRR......RRR...**....OOOOOOOOOO....**...KKK......KKK...**")
-
     print()
 
 
